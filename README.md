@@ -86,11 +86,10 @@ Ce projet a permis de valider la conception d'un compteur Geiger CMS performant.
 
 Le dépôt contient l'intégralité des fichiers nécessaires à la reproduction du projet :
 
+- [Carte_électronique/](./Carte_électronique) -> Schématics, fichiers de routage PCB et modèles 3D Kicad
+- [Composants/](./Composants) -> Lien des sites utiles
 - [Datasheet/](./Datasheet) -> Fiches techniques des composants critiques (NE555, MMBTA42, J315)
-- [KiCad/](./KiCad) -> Schématics, fichiers de routage PCB et modèles 3D
-- [Simulations/](./Simulations) -> Résultats des tests et mesures à l'oscilloscope
-- [Code/](./Code) -> Exemple de code Arduino pour le comptage des impulsions (PPS)
-- [Rapport/](./Rapport) -> Compte rendu technique détaillé du projet
+- [code_J315/](./code_J315) -> Exemple de code Arduino pour le comptage des impulsions (PPS)
 - [README.md](./README.md) -> Présentation du projet
 
 ---
