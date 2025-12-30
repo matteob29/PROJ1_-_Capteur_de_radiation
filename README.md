@@ -2,7 +2,8 @@
 
 Projet réalisé dans le cadre du module **PROJ1 – Projet analogique** en première année à l’**ENSEIRB-MATMECA**.
 
-**Auteurs :** Mattéo BINET  
+**Auteurs :** 
+Mattéo BINET  
 Quentin MARIE  
 
 **Date :** 30 décembre 2025  
